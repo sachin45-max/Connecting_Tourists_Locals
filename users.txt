@@ -1,0 +1,4 @@
+1|1|Prince|prince|prince|Dehradun|Hindi|0|||0
+2|2|Sachin|sachin|sachin|Dehradun|English|1|Trekking|Nainital|0
+3|1|kartik|kartik|kartik|Nainital|Hindi|0|||0
+4|1|varun|varun|Varun@321|Dehradun|Hindi|0|||0

@@ -1,0 +1,45 @@
+6|Snow View Point|Nainital|Tourist Place|4.6|30
+7|Naina Devi Temple|Nainital|Tourist Place|4.7|0
+8|Tiffin Top|Nainital|Tourist Place|4.5|50
+9|Eco Cave Gardens|Nainital|Tourist Place|4.4|100
+10|Bhimtal Lake|Bhimtal|Tourist Place|4.6|0
+11|Sattal Lake|Sattal|Tourist Place|4.5|0
+12|Naukuchiatal Lake|Naukuchiatal|Tourist Place|4.4|0
+13|Kainchi Dham|Nainital|Tourist Place|4.8|0
+14|The Mall Road|Mussoorie|Tourist Place|4.5|0
+15|Gun Hill|Mussoorie|Tourist Place|4.4|150
+16|Lal Tibba|Mussoorie|Tourist Place|4.6|0
+17|Company Garden|Mussoorie|Tourist Place|4.3|50
+18|Kempty Falls|Mussoorie|Tourist Place|4.6|100
+19|George Everest House|Mussoorie|Tourist Place|4.5|50
+20|Robber's Cave|Dehradun|Tourist Place|4.5|35
+21|Sahastradhara|Dehradun|Tourist Place|4.4|0
+22|Forest Research Institute|Dehradun|Tourist Place|4.7|0
+23|Tapkeshwar Temple|Dehradun|Tourist Place|4|0
+24|Mindrolling Monastery|Dehradun|Tourist Place|4.6|0
+25|Har Ki Pauri|Haridwar|Tourist Place|4.8|0
+26|Mansa Devi Temple|Haridwar|Tourist Place|4.6|0
+27|Chandi Devi Temple|Haridwar|Tourist Place|4.5|0
+28|Triveni Ghat|Rishikesh|Tourist Place|4.7|0
+29|Lakshman Jhula Area|Rishikesh|Tourist Place|4.6|0
+30|Ram Jhula|Rishikesh|Tourist Place|4.5|0
+31|Neer Garh Waterfall|Rishikesh|Tourist Place|4.5|50
+32|Parmarth Niketan|Rishikesh|Tourist Place|4.6|0
+33|Valley of Flowers|Chamoli|Tourist Place|4.8|150
+34|Hemkund Sahib|Chamoli|Tourist Place|4.9|0
+35|Chopta|Rudraprayag|Tourist Place|4.7|0
+36|Tungnath Temple|Rudraprayag|Tourist Place|4.8|0
+37|Auli|Chamoli|Tourist Place|4.7|500
+38|Jim Corbett National Park|Ramnagar|Tourist Place|4.7|1000
+39|Jageshwar Temples|Almora|Tourist Place|4.6|100
+40|Kasaar Devi Temple|Almora|Tourist Place|4.5|0
+41|Binsar Wildlife Sanctuary|Almora|Tourist Place|4.6|150
+42|Patal Bhuvaneshwar|Pithoragarh|Tourist Place|4.7|150
+43|Abbott Mount|Lohaghat|Tourist Place|4.4|0
+44|Tehri Lake|Tehri|Tourist Place|4.6|0
+45|Surkanda Devi Temple|Dhanaulti|Tourist Place|4.5|0
+46|Deoria Tal|Rudraprayag|Tourist Place|4.7|150
+47|Pindari Glacier Trek|Bagheshwar|Tourist Place|4.8|500
+48|Madhyamaheshwar Temple|Rudraprayag|Tourist Place|4.7|0
+49|Kedarnath Temple|Rudraprayag|Tourist Place|4.9|0
+50|Badrinath Temple|Chamoli|Tourist Place|4.9|0
